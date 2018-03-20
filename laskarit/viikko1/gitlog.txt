@@ -1,0 +1,99 @@
+commit f7088a208e4c3b49ffdca31984459752ff1f3720
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 22:35:06 2018 +0200
+
+    homma hoidettu
+
+ tiedostoja/file1  | 0
+ tiedostoja/file2  | 0
+ tiedostoja/file22 | 0
+ tiedostoja/file3  | 1 +
+ 4 files changed, 1 insertion(+)
+
+commit b2bcda4bc775f92b083e8e5f46c692e2f4b4b51e
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 17:12:24 2018 +0200
+
+    uusi hakemisto tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8efdc3044eeff238563253011a2f787f3d64caed
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 17:06:53 2018 +0200
+
+    lisäyksiä ja poistoja
+
+ eka.txt    | 3 +++
+ kolmas.txt | 5 +++++
+ 2 files changed, 8 insertions(+)
+
+commit b4e1f0f842429395d35cd8b7c47ca5084ea1bda4
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:54:20 2018 +0200
+
+    nimenmuutos
+
+ eka.txt      | 1 +
+ tiedosto.txt | 1 -
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit a00551717cbe1b5d6fa22d647992dffbd64bf2b0
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:53:12 2018 +0200
+
+    poistettu toinen tiedosto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit c16672c991842c591896b2a060fb05088577d3d3
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:45:40 2018 +0200
+
+    hakemisto lisätty
+
+ stuff/uusi.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1976b3ee85e33911cf3f62d14a1f7a4a36a7efa2
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:44:05 2018 +0200
+
+    muutoksia, muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 788260c454599f7c5dc792003c449b0d69682878
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:41:55 2018 +0200
+
+    kolmas tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6302f2c6920ccdf59ff5c6955fc2999db30be5c6
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:38:50 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 9b4190f91c7d1b326ea3792a552c2f1ab077da6d
+Author: lautanas <sari.lautanala@helsinki.fi>
+Date:   Tue Mar 20 16:36:02 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
