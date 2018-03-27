@@ -1,9 +1,6 @@
-**Lihavoitua** tekstiä. Vähän *kursivoitua* tekstiä. Kai sitä olisi jonkin 
-otsikonkin tehdä
-[komentorivi.txt](https://github.com/lautsar/otm-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-[gitlog.txt](https://github.com/lautsar/otm-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+## Tuntikirjanpito
 
-Muutos tehty
 
-Toinen muutos tehty
+## Harjoitustyön dokumentointi
+[Alustava vaatimusmäärittely](https://github.com/lautsar/otm-harjoitustyo/blob/master/dokumentointi/vaatimusmaarittely.md)
 
